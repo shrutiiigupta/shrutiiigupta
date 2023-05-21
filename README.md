@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi👋 I am Shruti Gupta</h1>
+<h3 align="center"> UI/UX Designer and Tech Enthusiast</h3>
+
+🌱 I’m currently learning React and Javascript
 
 <!--
 **shrutiiigupta/shrutiiigupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
