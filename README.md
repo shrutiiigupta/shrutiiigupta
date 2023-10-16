@@ -27,6 +27,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiiigupta&theme=tokyonight&" alt="shruti" /></p>
 
+[![An image of @gupta_shruti08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gupta_shruti08)](https://holopin.io/@gupta_shruti08)
+
 <!--
 **shrutiiigupta/shrutiiigupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
